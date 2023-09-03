@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tofeiku"
+		]
+	},
+	"miniedit-form-publish": "Terbitkan",
+	"miniedit-form-cancel": "Batalkan",
+	"miniedit-form-summary": "Ringkasan suntingan",
+	"miniedit-form-minor": "Suntingan kecil",
+	"miniedit-form-saving": "Menyimpan...",
+	"miniedit-summary-edit": "Perenggan disunting",
+	"miniedit-summary-delete": "Perenggan dihapus"
+}

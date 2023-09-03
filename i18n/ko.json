@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong",
+			"그냥기여자"
+		]
+	},
+	"miniedit-form-publish": "게시",
+	"miniedit-form-cancel": "취소",
+	"miniedit-form-summary": "편집 요약",
+	"miniedit-form-minor": "사소한 편집",
+	"miniedit-form-saving": "저장 중..."
+}

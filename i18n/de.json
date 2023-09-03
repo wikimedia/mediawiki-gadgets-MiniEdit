@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justman10000"
+		]
+	},
+	"miniedit-form-publish": "Veröffentlichen",
+	"miniedit-form-cancel": "Abbrechen",
+	"miniedit-form-summary": "Bearbeitungszusammenfassung",
+	"miniedit-form-minor": "Kleine Änderung",
+	"miniedit-form-saving": "Speichere …",
+	"miniedit-summary-edit": "Absatz bearbeitet",
+	"miniedit-summary-delete": "Absatz gelöscht"
+}

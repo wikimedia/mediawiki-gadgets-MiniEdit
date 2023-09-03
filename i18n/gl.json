@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"miniedit-form-publish": "Publicar",
+	"miniedit-form-cancel": "Cancelar",
+	"miniedit-form-summary": "Resumo de edición",
+	"miniedit-form-minor": "Edición menor",
+	"miniedit-form-saving": "Gardando...",
+	"miniedit-summary-edit": "Parágrafo editado",
+	"miniedit-summary-delete": "Parágrafo borrado"
+}

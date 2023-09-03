@@ -1,0 +1,15 @@
+{
+	"extends": [
+		"wikimedia/client",
+		"wikimedia/jquery",
+		"wikimedia/mediawiki"
+	],
+	"globals": {
+		"MiniEdit": "writable"
+	},
+	"rules": {
+		"max-len": "off",
+		"one-var": "off",
+		"vars-on-top": "off"
+	}
+}

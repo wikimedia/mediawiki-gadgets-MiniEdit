@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyscowicz"
+		]
+	},
+	"miniedit-form-publish": "Julkaise",
+	"miniedit-form-cancel": "Peruuta",
+	"miniedit-form-summary": "Muokkausyhteenveto",
+	"miniedit-form-minor": "Pieni muutos",
+	"miniedit-form-saving": "Tallennetaan..."
+}

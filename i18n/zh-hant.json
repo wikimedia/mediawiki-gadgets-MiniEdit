@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"miniedit-form-publish": "發布",
+	"miniedit-form-cancel": "取消",
+	"miniedit-form-summary": "編輯摘要",
+	"miniedit-form-minor": "小修改",
+	"miniedit-form-saving": "儲存中…"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Finizio"
+		]
+	},
+	"miniedit-form-publish": "Pubbleca",
+	"miniedit-form-cancel": "Sfaje",
+	"miniedit-form-summary": "Modifeca sunto",
+	"miniedit-form-minor": "Cagnamiénte piccerille",
+	"miniedit-form-saving": "Salvanno...",
+	"miniedit-summary-edit": "Frase cagnata",
+	"miniedit-summary-delete": "Frase cancellata"
+}

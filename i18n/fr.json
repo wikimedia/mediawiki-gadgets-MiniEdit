@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Verdy p"
+		]
+	},
+	"miniedit-form-publish": "Publier",
+	"miniedit-form-cancel": "Annuler",
+	"miniedit-form-summary": "Modifier le résumé",
+	"miniedit-form-minor": "Modification mineure",
+	"miniedit-form-saving": "Enregistrement...",
+	"miniedit-summary-edit": "Paragraphe modifié",
+	"miniedit-summary-delete": "Paragraphe supprimé"
+}

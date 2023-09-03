@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"miniedit-form-publish": "Објави",
+	"miniedit-form-cancel": "Откажи",
+	"miniedit-form-summary": "Опис на уредувањето",
+	"miniedit-form-minor": "Ситно уредување",
+	"miniedit-form-saving": "Зачувувам...",
+	"miniedit-summary-edit": "Пасус уреден",
+	"miniedit-summary-delete": "Пасус избришан"
+}

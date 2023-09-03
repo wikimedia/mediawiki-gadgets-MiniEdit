@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"AProdromou",
+			"Dogogos123"
+		]
+	},
+	"miniedit-form-publish": "Δημοσίευση",
+	"miniedit-form-cancel": "Ακύρωση",
+	"miniedit-form-summary": "Σύνοψη επεξεργασίας",
+	"miniedit-form-minor": "Μικροεπεξεργασίες",
+	"miniedit-form-saving": "Γίνεται αποθήκευση…"
+}

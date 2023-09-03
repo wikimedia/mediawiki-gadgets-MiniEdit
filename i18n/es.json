@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sophivorus"
+		]
+	},
+	"miniedit-form-publish": "Publicar",
+	"miniedit-form-cancel": "Cancelar",
+	"miniedit-form-summary": "Resumen de edición",
+	"miniedit-form-minor": "Edición menor",
+	"miniedit-form-saving": "Guardando...",
+	"miniedit-summary-edit": "Párrafo editado",
+	"miniedit-summary-delete": "Párrafo borrado"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"miniedit-form-publish": "Publicar",
+	"miniedit-form-cancel": "Cancellar",
+	"miniedit-form-summary": "Summario del modification",
+	"miniedit-form-minor": "Modification minor",
+	"miniedit-form-saving": "Salveguarda…",
+	"miniedit-summary-edit": "Paragrapho modificate",
+	"miniedit-summary-delete": "Paragrapho delite"
+}

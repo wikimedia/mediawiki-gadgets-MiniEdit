@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"NGC 54"
+		]
+	},
+	"miniedit-form-publish": "Publicare",
+	"miniedit-form-cancel": "Anulare",
+	"miniedit-form-summary": "Rezumatul modificării",
+	"miniedit-form-minor": "Modificare minoră",
+	"miniedit-form-saving": "Se salvează...",
+	"miniedit-summary-edit": "Paragraf modificat",
+	"miniedit-summary-delete": "Paragraf șters"
+}

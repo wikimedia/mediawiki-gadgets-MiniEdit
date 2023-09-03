@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"EdoAug",
+			"Jon Harald Søby"
+		]
+	},
+	"miniedit-form-publish": "Publiser",
+	"miniedit-form-cancel": "Avbryt",
+	"miniedit-form-summary": "Redigeringsforklaring",
+	"miniedit-form-minor": "Mindre endring",
+	"miniedit-form-saving": "Lagrer …",
+	"miniedit-summary-edit": "Avsnitt redigert",
+	"miniedit-summary-delete": "Avsnitt slettet"
+}

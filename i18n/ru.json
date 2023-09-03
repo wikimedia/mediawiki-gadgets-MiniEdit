@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Kareyac",
+			"Okras"
+		]
+	},
+	"miniedit-form-publish": "Опубликовать",
+	"miniedit-form-cancel": "Отмена",
+	"miniedit-form-summary": "Описание изменений",
+	"miniedit-form-minor": "Малая правка",
+	"miniedit-form-saving": "Сохраняется…",
+	"miniedit-summary-edit": "Абзац отредактирован",
+	"miniedit-summary-delete": "Абзац удалён"
+}

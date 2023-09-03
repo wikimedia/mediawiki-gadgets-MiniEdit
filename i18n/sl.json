@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"miniedit-form-publish": "Objavi",
+	"miniedit-form-cancel": "Prekliči",
+	"miniedit-form-summary": "Povzetek urejanja",
+	"miniedit-form-minor": "Manjše urejanje",
+	"miniedit-form-saving": "Shranjevanje&nbsp;...",
+	"miniedit-summary-edit": "sprememba odstavka",
+	"miniedit-summary-delete": "izbris odstavka"
+}

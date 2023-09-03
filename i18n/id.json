@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Veracious"
+		]
+	},
+	"miniedit-form-publish": "Terbitkan",
+	"miniedit-form-cancel": "Batal",
+	"miniedit-form-summary": "Ringkasan suntingan",
+	"miniedit-form-minor": "Suntingan kecil",
+	"miniedit-form-saving": "Menyimpan...",
+	"miniedit-summary-edit": "Paragraf disunting",
+	"miniedit-summary-delete": "Paragraf dihapus"
+}

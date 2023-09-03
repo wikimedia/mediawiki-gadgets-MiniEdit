@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sabelöga"
+		]
+	},
+	"miniedit-form-cancel": "Avbryt",
+	"miniedit-form-summary": "Redigera sammanfattning",
+	"miniedit-form-minor": "Mindre redigering",
+	"miniedit-form-saving": "Sparar...",
+	"miniedit-summary-edit": "Paragrafen redigerades",
+	"miniedit-summary-delete": "Paragrafen raderades"
+}

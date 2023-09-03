@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asma",
+			"Hedda"
+		]
+	},
+	"miniedit-form-publish": "Yayımla",
+	"miniedit-form-cancel": "İptal",
+	"miniedit-form-summary": "Özeti değiştir",
+	"miniedit-form-minor": "Küçük değişiklik",
+	"miniedit-form-saving": "Kaydediliyor..."
+}

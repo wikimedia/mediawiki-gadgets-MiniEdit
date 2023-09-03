@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sveinki"
+		]
+	},
+	"miniedit-form-publish": "Birta",
+	"miniedit-form-cancel": "Hætta við",
+	"miniedit-form-summary": "Breytingarágrip",
+	"miniedit-form-minor": "Minniháttar breyting",
+	"miniedit-form-saving": "Vistar...",
+	"miniedit-summary-edit": "Málsgrein breytt",
+	"miniedit-summary-delete": "Málsgrein eytt"
+}
