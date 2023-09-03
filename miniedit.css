@@ -1,0 +1,11 @@
+.miniedit-form-input {
+	font-family: monospace;
+	overflow: hidden;
+	padding: .5em;
+}
+.miniedit-form-footer .oo-ui-textInputWidget {
+	max-width: 500px;	
+}
+.miniedit-form-footer .oo-ui-fieldLayout {
+	vertical-align: text-bottom;
+}
