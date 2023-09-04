@@ -401,6 +401,9 @@ window.MiniEdit = {
 };
 
 mw.loader.using( [
+	'mediawiki.api',
+	'mediawiki.user',
+	'mediawiki.util',
 	'oojs-ui-core',
 	'oojs-ui-widgets'
 ], MiniEdit.init );
