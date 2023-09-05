@@ -88,12 +88,12 @@ window.MiniEdit = {
 		var $paragraph = $button.parent();
 
 		// Save the original paragraph in case we need to restore it later
-		// However, for some reason the hover events on the button are not getting cloned, so we remake the button
+		// For some reason the hover events on the button are not getting cloned, so we remake the button
 		var $original = $paragraph.clone( true );
 		$original.find( '.miniedit-button' ).remove();
 		MiniEdit.addEditButton.call( $original );
 
-		// pageWikitext serves as a flag signaling that the dependencies were already loaded by a previous click
+		// If pageWikitext is set, it means that the dependencies were already loaded by a previous click
 		if ( MiniEdit.pageWikitext ) {
 			MiniEdit.addEditForm( $paragraph, $original );
 			return;
@@ -140,9 +140,6 @@ window.MiniEdit = {
 		var summaryInput = new OO.ui.TextInputWidget( { name: 'summary', placeholder: mw.msg( 'miniedit-form-summary' ) } );
 		var summaryLayout = new OO.ui.HorizontalLayout( { items: [ summaryInput ] } );
 
-		// CSS tweak
-		wikitextInput.$element.css( { 'font-family': 'monospace', 'max-width': '100%' } );
-
 		// Anons can't mark edits as minor
 		if ( !mw.user.isAnon() ) {
 			var minorCheckbox = new OO.ui.CheckboxInputWidget( { name: 'minor' } );
@@ -155,6 +152,10 @@ window.MiniEdit = {
 		var publishButton = new OO.ui.ButtonInputWidget( { label: mw.msg( 'miniedit-form-publish' ), flags: [ 'primary', 'progressive' ] } );
 		var cancelButton = new OO.ui.ButtonInputWidget( { label: mw.msg( 'miniedit-form-cancel' ), flags: 'destructive', framed: false } );
 		var formLayout = new OO.ui.FormLayout( { items: [ wikitextLayout, summaryLayout, publishButton, cancelButton ] } );
+
+		// CSS tweaks
+		formLayout.$element.css( 'overflow', 'hidden' );
+		wikitextInput.$element.css( { 'font-family': 'monospace', 'max-width': '100%' } );
 
 		// Add to the DOM
 		var $form = formLayout.$element;
