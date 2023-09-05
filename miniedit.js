@@ -140,6 +140,9 @@ window.MiniEdit = {
 		var summaryInput = new OO.ui.TextInputWidget( { name: 'summary', placeholder: mw.msg( 'miniedit-form-summary' ) } );
 		var summaryLayout = new OO.ui.HorizontalLayout( { items: [ summaryInput ] } );
 
+		// CSS tweak
+		wikitextInput.$element.css( { 'font-family': 'monospace', 'max-width': '100%' } );
+
 		// Anons can't mark edits as minor
 		if ( !mw.user.isAnon() ) {
 			var minorCheckbox = new OO.ui.CheckboxInputWidget( { name: 'minor' } );
@@ -337,7 +340,7 @@ window.MiniEdit = {
 			summary = '/* ' + section + ' */ ' + summary;
 		}
 		var page = mw.config.get( 'miniedit-page', 'mw:MiniEdit' );
-		summary += ' [[' + page + '| #miniedit]]'; // For https://hashtags.wmcloud.org
+		summary += ' [[' + page + '| #MiniEdit]]'; // For https://hashtags.wmcloud.org
 		return summary;
 	},
 
