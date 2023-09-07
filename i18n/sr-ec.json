@@ -8,5 +8,7 @@
 	"miniedit-form-cancel": "Откажи",
 	"miniedit-form-summary": "Опис измене",
 	"miniedit-form-minor": "Мања измена",
-	"miniedit-form-saving": "Чување..."
+	"miniedit-form-saving": "Чување...",
+	"miniedit-summary-edit": "Уређен пасус",
+	"miniedit-summary-delete": "Пасус уклоњен"
 }

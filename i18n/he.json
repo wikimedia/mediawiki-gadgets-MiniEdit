@@ -9,5 +9,7 @@
 	"miniedit-form-cancel": "ביטול",
 	"miniedit-form-summary": "תקציר העריכה",
 	"miniedit-form-minor": "עריכה משנית",
-	"miniedit-form-saving": "מתבצעת שמירה..."
+	"miniedit-form-saving": "מתבצעת שמירה...",
+	"miniedit-summary-edit": "פסקה נערכה",
+	"miniedit-summary-delete": "פסקה נמחקה"
 }
