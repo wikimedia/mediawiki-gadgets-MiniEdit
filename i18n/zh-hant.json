@@ -8,5 +8,7 @@
 	"miniedit-form-cancel": "取消",
 	"miniedit-form-summary": "編輯摘要",
 	"miniedit-form-minor": "小修改",
-	"miniedit-form-saving": "儲存中…"
+	"miniedit-form-saving": "儲存中…",
+	"miniedit-summary-edit": "編輯段落",
+	"miniedit-summary-delete": "移除段落"
 }

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Atzerritik"
+		]
+	},
+	"miniedit-form-publish": "Argitaratu",
+	"miniedit-form-cancel": "Utzi",
+	"miniedit-form-summary": "Laburpena aldatu",
+	"miniedit-form-minor": "Aldaketa txikiak",
+	"miniedit-form-saving": "Gordetzen...",
+	"miniedit-summary-edit": "Paragrafoa editatua",
+	"miniedit-summary-delete": "Paragrafoa ezabatu da"
+}
