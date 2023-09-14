@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Atzerritik"
+			"Atzerritik",
+			"Juele"
 		]
 	},
 	"miniedit-form-publish": "Argitaratu",
 	"miniedit-form-cancel": "Utzi",
-	"miniedit-form-summary": "Laburpena aldatu",
+	"miniedit-form-summary": "Aldaketen laburpena",
 	"miniedit-form-minor": "Aldaketa txikiak",
 	"miniedit-form-saving": "Gordetzen...",
-	"miniedit-summary-edit": "Paragrafoa editatua",
+	"miniedit-summary-edit": "Paragrafoa ezabatu da",
 	"miniedit-summary-delete": "Paragrafoa ezabatu da"
 }
