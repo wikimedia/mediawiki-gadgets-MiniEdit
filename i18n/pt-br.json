@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Felipe L. Ewald",
 			"Re demz"
 		]
 	},
+	"miniedit-form-publish": "Publicar",
 	"miniedit-form-cancel": "Cancelar",
 	"miniedit-form-summary": "Resumo da edição",
 	"miniedit-form-minor": "Edição menor",
