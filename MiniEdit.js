@@ -66,7 +66,7 @@ window.MiniEdit = {
 
 		// Only show the button when the user hovers over the paragraph
 		// On mobile devices there's no hover event, so we just skip this part and show the button always
-		if ( mw.config.get( 'skin' ) !== 'minerva' ) {
+		if ( window.innerWidth > 800 ) {
 			$button.hide();
 			$paragraph.on( 'mouseenter', function () { $button.show(); } );
 			$paragraph.on( 'mouseleave', function () { $button.hide(); } );
