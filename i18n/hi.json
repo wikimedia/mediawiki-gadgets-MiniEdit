@@ -7,5 +7,7 @@
 	"miniedit-form-publish": "प्रकाशित करें",
 	"miniedit-form-cancel": "रद्द करें",
 	"miniedit-form-summary": "संपादन सारांश",
-	"miniedit-form-minor": "छोटा संपादन"
+	"miniedit-form-minor": "छोटा संपादन",
+	"miniedit-form-saving": "सहेजा जा रहा है...",
+	"miniedit-summary-delete": "अनुच्छेद हटा दिया गया"
 }
