@@ -1,10 +1,14 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Moshtank"
+		]
 	},
 	"miniedit-form-publish": "شِنگ کنگ",
 	"miniedit-form-cancel": "بججگ",
 	"miniedit-form-summary": "سرچممگݔن ٹگل",
 	"miniedit-form-minor": "ھُردݔن ٹگل",
-	"miniedit-form-saving": "سپت بییگئن..."
+	"miniedit-form-saving": "سپت بییگئن...",
+	"miniedit-summary-edit": "پاراگراپ ٹگلݔنگ بیت",
+	"miniedit-summary-delete": "پاراگراپ گار کنگ بیت"
 }
