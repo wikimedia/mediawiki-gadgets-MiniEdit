@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Adriendelucca"
+		]
+	},
+	"miniedit-form-publish": "Embann",
+	"miniedit-form-cancel": "Nullañ",
+	"miniedit-form-summary": "Diverradenn ar c'hemmoù",
+	"miniedit-form-minor": "Kemm dister",
+	"miniedit-form-saving": "Oc'h enrollañ...",
+	"miniedit-summary-edit": "Rannbennad kemmet",
+	"miniedit-summary-delete": "Rannbennad dilamet"
+}
