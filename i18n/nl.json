@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mainframe98"
+			"Mainframe98",
+			"McDutchie"
 		]
 	},
+	"miniedit-form-publish": "Publiceren",
 	"miniedit-form-cancel": "Annuleren",
 	"miniedit-form-summary": "Bewerkingssamenvatting",
 	"miniedit-form-minor": "Kleine bewerking",
-	"miniedit-form-saving": "Aan het opslaan..."
+	"miniedit-form-saving": "Aan het opslaan...",
+	"miniedit-summary-edit": "Alinea gewijzigd",
+	"miniedit-summary-delete": "Alinea verwijderd"
 }
