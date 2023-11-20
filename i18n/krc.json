@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Къарачайлы"
+		]
+	},
+	"miniedit-form-publish": "Басмала",
+	"miniedit-form-cancel": "Ызына ал",
+	"miniedit-form-summary": "Эсебни тюзет",
+	"miniedit-form-minor": "Гитче тюзетиу",
+	"miniedit-form-saving": "Сакъланады…",
+	"miniedit-summary-edit": "Параграф тюзетилгенди",
+	"miniedit-summary-delete": "Параграф кетерилгенди"
+}
