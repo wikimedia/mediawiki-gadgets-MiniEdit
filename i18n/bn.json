@@ -8,5 +8,7 @@
 	"miniedit-form-cancel": "বাতিল",
 	"miniedit-form-summary": "সম্পাদনা সারাংশ",
 	"miniedit-form-minor": "অনুল্লেখ্য সম্পাদনা",
-	"miniedit-form-saving": "সংরক্ষণ করা হচ্ছে ..."
+	"miniedit-form-saving": "সংরক্ষণ করা হচ্ছে ...",
+	"miniedit-summary-edit": "অনুচ্ছেদ সম্পাদিত হয়েছে",
+	"miniedit-summary-delete": "অনুচ্ছেদ সরানো হয়েছে"
 }
