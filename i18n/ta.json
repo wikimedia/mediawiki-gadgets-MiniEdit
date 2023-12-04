@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fahimrazick"
+		]
+	},
+	"miniedit-form-publish": "பதிப்பிடு",
+	"miniedit-form-cancel": "கைவிடு",
+	"miniedit-form-summary": "தொகுப்புச் சுருக்கம்",
+	"miniedit-form-minor": "சிறு தொகுப்பு",
+	"miniedit-form-saving": "சேமிக்கிறது...",
+	"miniedit-summary-edit": "பந்தி திருத்தப்பட்டது",
+	"miniedit-summary-delete": "பந்தி நீக்கப்பட்டது"
+}
