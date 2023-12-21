@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Thakurji"
+		]
+	},
+	"miniedit-form-publish": "Publish karo",
+	"miniedit-form-cancel": "Cancel karo",
+	"miniedit-form-summary": "Summary ke badlo",
+	"miniedit-form-minor": "Chhotaa badlao",
+	"miniedit-form-saving": "Save karaa jaae hai...",
+	"miniedit-summary-edit": "Paragraph ke badal dewa gais hai",
+	"miniedit-summary-delete": "Paragraph ke hatae dewa gais hai"
+}

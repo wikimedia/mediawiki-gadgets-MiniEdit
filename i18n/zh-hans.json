@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			")8",
+			"GuoPC",
 			"Gzombiejun"
 		]
 	},
@@ -9,5 +10,7 @@
 	"miniedit-form-cancel": "取消",
 	"miniedit-form-summary": "编辑摘要",
 	"miniedit-form-minor": "小编辑",
-	"miniedit-form-saving": "正在保存..."
+	"miniedit-form-saving": "正在保存...",
+	"miniedit-summary-edit": "编辑段落",
+	"miniedit-summary-delete": "删除段落"
 }
