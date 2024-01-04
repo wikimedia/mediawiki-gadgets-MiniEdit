@@ -1,12 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Asma"
+			"Asma",
+			"Sandra Hanbo"
 		]
 	},
 	"miniedit-form-publish": "نشر",
 	"miniedit-form-cancel": "إلغاء",
 	"miniedit-form-summary": "ملخص التعديل",
 	"miniedit-form-minor": "تعديل طفيف",
-	"miniedit-form-saving": "جارٍ الحفظ..."
+	"miniedit-form-saving": "جارٍ الحفظ...",
+	"miniedit-summary-edit": "فقرة مُعدَّلة",
+	"miniedit-summary-delete": "فقرة مُزالة"
 }
