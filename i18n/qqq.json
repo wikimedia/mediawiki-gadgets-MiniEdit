@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Sophivorus"
 		]
 	},
 	"miniedit-form-publish": "Label of the button to publish the changes",
-	"miniedit-form-cancel": "Label of the button to cancel the edit",
+	"miniedit-form-cancel": "Label of the button to cancel the edit\n\n{{Identical|Cancel}}",
 	"miniedit-form-summary": "Label of the field to enter the edit summary",
 	"miniedit-form-minor": "Label of the checkbox to mark the edit as minor",
 	"miniedit-form-saving": "Text shown while saving the changes",
