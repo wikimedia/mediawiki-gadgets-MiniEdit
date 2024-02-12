@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"miniedit-form-publish": "Paskelbti",
+	"miniedit-form-cancel": "Atšaukti",
+	"miniedit-form-summary": "Keitimo komentaras",
+	"miniedit-form-minor": "Smulkus keitimas",
+	"miniedit-form-saving": "Įrašoma...",
+	"miniedit-summary-edit": "Pastraipa redaguota",
+	"miniedit-summary-delete": "Pastraipa ištrinta"
+}

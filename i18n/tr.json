@@ -2,12 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Asma",
-			"Hedda"
+			"Hedda",
+			"Joseph"
 		]
 	},
 	"miniedit-form-publish": "Yayımla",
 	"miniedit-form-cancel": "İptal",
-	"miniedit-form-summary": "Özeti değiştir",
+	"miniedit-form-summary": "Değişiklik özeti",
 	"miniedit-form-minor": "Küçük değişiklik",
-	"miniedit-form-saving": "Kaydediliyor..."
+	"miniedit-form-saving": "Kaydediliyor...",
+	"miniedit-summary-edit": "Paragraf düzenlendi",
+	"miniedit-summary-delete": "Paragraf silindi"
 }
