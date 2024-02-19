@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"GolyatGeri"
+			"GolyatGeri",
+			"Mirzali"
 		]
 	},
 	"miniedit-form-publish": "Bıweşane",
 	"miniedit-form-cancel": "Bıtexelne",
 	"miniedit-form-summary": "Xulasa bıvurne",
-	"miniedit-form-minor": "Vırnayışo qıcek",
+	"miniedit-form-minor": "Vurnayışo qıckek",
 	"miniedit-form-saving": "Qeyd beno...",
-	"miniedit-summary-edit": "Paragraf vurniyao",
-	"miniedit-summary-delete": "Paragraf estariyao"
+	"miniedit-summary-edit": "Paragraf vurniyayo",
+	"miniedit-summary-delete": "Paragraf estariyayo"
 }
