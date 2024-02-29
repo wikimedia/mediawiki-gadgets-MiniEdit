@@ -1,9 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"MathXplore"
+			"MathXplore",
+			"もなー(偽物)"
 		]
 	},
+	"miniedit-form-publish": "公開",
 	"miniedit-form-cancel": "キャンセル",
-	"miniedit-form-minor": "細部の編集"
+	"miniedit-form-summary": "編集の要約",
+	"miniedit-form-minor": "細部の編集",
+	"miniedit-form-saving": "保存中...",
+	"miniedit-summary-edit": "段落を編集しました",
+	"miniedit-summary-delete": "段落を消去しました"
 }

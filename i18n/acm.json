@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"MRidhaAJ"
+		]
+	},
+	"miniedit-form-publish": "انشر",
+	"miniedit-form-cancel": "الغي",
+	"miniedit-form-summary": "ملخص التعديل",
+	"miniedit-form-minor": "تعديلات طفيفه",
+	"miniedit-form-saving": "جاي ينحفظ...",
+	"miniedit-summary-edit": "فقرة معدلة",
+	"miniedit-summary-delete": "فقرة محذوفة"
+}
