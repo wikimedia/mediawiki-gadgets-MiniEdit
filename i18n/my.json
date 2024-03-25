@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dr Lotus Black"
+		]
+	},
+	"miniedit-form-publish": "လွှင့်တင်ရန်",
+	"miniedit-form-cancel": "မလုပ်တော့ပါ",
+	"miniedit-form-summary": "အကျဉ်းချုပ်ကို တည်းဖြတ်ရန်",
+	"miniedit-form-minor": "အရေးမကြီးသည့် တည်းဖြတ်မှု",
+	"miniedit-form-saving": "သိမ်းဆည်းနေသည်...",
+	"miniedit-summary-edit": "စာပိုဒ်ကို တည်းဖြတ်ထားသည်",
+	"miniedit-summary-delete": "စာပိုဒ်ကို ဖျက်လိုက်ပါပြီ"
+}
