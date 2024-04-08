@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"B3rnas"
+		]
+	},
+	"miniedit-form-publish": "Publicar",
+	"miniedit-form-cancel": "Cancelar",
+	"miniedit-form-summary": "Editar resumo",
+	"miniedit-form-minor": "Edição menor",
+	"miniedit-form-saving": "A gravar...",
+	"miniedit-summary-edit": "Parágrafo editado",
+	"miniedit-summary-delete": "Parágrafo removido"
+}
