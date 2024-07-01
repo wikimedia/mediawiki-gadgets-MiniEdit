@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ignatgg",
+			"Palapa"
+		]
+	},
+	"miniedit-form-publish": "Objavi",
+	"miniedit-form-cancel": "Otkaži",
+	"miniedit-form-summary": "Sažetak izmjene",
+	"miniedit-form-minor": "Manja izmjena",
+	"miniedit-form-saving": "Čuvam..."
+}

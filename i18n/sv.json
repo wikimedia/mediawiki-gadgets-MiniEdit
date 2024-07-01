@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ignatgg",
 			"Sabelöga"
 		]
 	},
+	"miniedit-form-publish": "Publicera",
 	"miniedit-form-cancel": "Avbryt",
 	"miniedit-form-summary": "Redigera sammanfattning",
 	"miniedit-form-minor": "Mindre redigering",

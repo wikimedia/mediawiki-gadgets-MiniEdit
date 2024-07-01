@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Oujon"
+		]
+	},
+	"miniedit-form-publish": "Publikovať",
+	"miniedit-form-cancel": "Zrušiť",
+	"miniedit-form-summary": "Upraviť súhrn",
+	"miniedit-form-minor": "Drobná úprava",
+	"miniedit-form-saving": "Ukladá sa...",
+	"miniedit-summary-edit": "Odsek upravenýu",
+	"miniedit-summary-delete": "Odstavec zrušený"
+}

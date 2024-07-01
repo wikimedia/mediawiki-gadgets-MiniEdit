@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ignatgg"
+		]
+	},
+	"miniedit-form-publish": "Опублікувати",
+	"miniedit-form-cancel": "Скасувати",
+	"miniedit-form-summary": "Опис редагування",
+	"miniedit-form-minor": "Незначне редагування",
+	"miniedit-form-saving": "Збереження…",
+	"miniedit-summary-edit": "Абзац додано",
+	"miniedit-summary-delete": "Абзац вилучено"
+}
