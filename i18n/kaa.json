@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ajiniyaz Nurniyazov"
+			"Ajiniyaz Nurniyazov",
+			"Inabat Allanova"
 		]
 	},
-	"miniedit-form-cancel": "Biykar etiw"
+	"miniedit-form-publish": "Járiyalaw",
+	"miniedit-form-cancel": "Biykar etiw",
+	"miniedit-form-summary": "Juwmaqtı redaktorlaw",
+	"miniedit-form-minor": "Kishi ózgeris",
+	"miniedit-form-saving": "Saqlanbaqta...",
+	"miniedit-summary-edit": "Paragraf redaktorlandı",
+	"miniedit-summary-delete": "Paragraf óshirildi"
 }
