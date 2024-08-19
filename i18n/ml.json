@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Adithyak1997"
+		]
+	},
+	"miniedit-form-publish": "പ്രസിദ്ധീകരിക്കുക",
+	"miniedit-form-cancel": "റദ്ദാക്കുക",
+	"miniedit-form-summary": "തിരുത്തലിന്റെ ചുരുക്കം",
+	"miniedit-form-minor": "ചെറു തിരുത്ത്",
+	"miniedit-form-saving": "സേവ് ചെയ്യുന്നു…",
+	"miniedit-summary-edit": "ഖണ്ഡിക തിരുത്തി",
+	"miniedit-summary-delete": "ഖണ്ഡിക നീക്കം ചെയ്തു"
+}
