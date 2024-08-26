@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Peterleth"
+		]
+	},
+	"miniedit-form-publish": "Udgiv",
+	"miniedit-form-cancel": "Annullér",
+	"miniedit-form-summary": "Redigeringssammendrag",
+	"miniedit-form-minor": "Mindre ændring",
+	"miniedit-form-saving": "Gemmer...",
+	"miniedit-summary-edit": "Afsnit redigeret",
+	"miniedit-summary-delete": "Afsnit slettet"
+}
