@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cabal"
+		]
+	},
+	"miniedit-form-publish": "ਛਾਪੋ",
+	"miniedit-form-cancel": "ਰੱਦ ਕਰੋ",
+	"miniedit-form-summary": "ਸੋਧ ਸਾਰ",
+	"miniedit-form-minor": "ਮਾਮੂਲੀ ਸੋਧ",
+	"miniedit-form-saving": "ਸਾਂਭਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
+	"miniedit-summary-edit": "ਪੈਰਾ ਸੋਧਿਆ ਗਿਆ",
+	"miniedit-summary-delete": "ਪੈਰਾ ਹਟਾਇਆ ਗਿਆ"
+}
