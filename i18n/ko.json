@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Suleiman the Magnificent Television",
 			"Ykhwong",
 			"그냥기여자"
 		]
@@ -9,5 +10,7 @@
 	"miniedit-form-cancel": "취소",
 	"miniedit-form-summary": "편집 요약",
 	"miniedit-form-minor": "사소한 편집",
-	"miniedit-form-saving": "저장 중..."
+	"miniedit-form-saving": "저장 중...",
+	"miniedit-summary-edit": "문단 편집됨",
+	"miniedit-summary-delete": "문단 제거됨"
 }
