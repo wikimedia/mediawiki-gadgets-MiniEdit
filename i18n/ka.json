@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Გიო ოქრო"
+		]
+	},
+	"miniedit-form-publish": "გამოქვეყნება",
+	"miniedit-form-cancel": "გაუქმება",
+	"miniedit-form-summary": "რედაქტირების რეზიუმე",
+	"miniedit-form-minor": "მცირე რედაქტირება",
+	"miniedit-form-saving": "ინახება...",
+	"miniedit-summary-edit": "აბზაცი დარედაქტირდა",
+	"miniedit-summary-delete": "აბზაცი წაიშალა"
+}
