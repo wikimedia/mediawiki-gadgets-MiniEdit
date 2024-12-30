@@ -3,6 +3,7 @@
 		"authors": [
 			"AProdromou",
 			"Dogogos123",
+			"Fotis A.",
 			"Ignatgg"
 		]
 	},
@@ -10,5 +11,7 @@
 	"miniedit-form-cancel": "Ακύρωση",
 	"miniedit-form-summary": "Σύνοψη επεξεργασίας",
 	"miniedit-form-minor": "Μικροεπεξεργασίες",
-	"miniedit-form-saving": "Γίνεται αποθήκευση…"
+	"miniedit-form-saving": "Γίνεται αποθήκευση…",
+	"miniedit-summary-edit": "Επεξεργασία παραγράφου με το",
+	"miniedit-summary-delete": "Η παραγράφος διαγράφηκε με το"
 }
