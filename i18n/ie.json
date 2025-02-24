@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lisyeng"
+		]
+	},
+	"miniedit-form-publish": "Publica",
+	"miniedit-form-cancel": "Anulla",
+	"miniedit-form-summary": "Summarium de redaction",
+	"miniedit-form-minor": "Poc redaction",
+	"miniedit-form-saving": "Conservant...",
+	"miniedit-summary-edit": "Pragraf redactet",
+	"miniedit-summary-delete": "Paragraf deletet"
+}
