@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ajeje Brazorf"
+			"Ajeje Brazorf",
+			"GianAntonucci"
 		]
 	},
 	"miniedit-form-publish": "Pùbblica",
 	"miniedit-form-cancel": "Annulla",
 	"miniedit-form-summary": "Riassuntu dû canciamentu",
 	"miniedit-form-minor": "Canciamentu nicu",
-	"miniedit-form-saving": "Sarvataggiu...",
+	"miniedit-form-saving": "Sarbamentu...",
 	"miniedit-summary-edit": "Paràgrafu canciatu",
 	"miniedit-summary-delete": "Paràgrafu cancillatu"
 }
