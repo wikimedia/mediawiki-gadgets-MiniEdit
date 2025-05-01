@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bosogo"
+		]
+	},
+	"miniedit-form-publish": "Жарыялоо",
+	"miniedit-form-cancel": "Жокко чыгаруу",
+	"miniedit-form-summary": "Түзөтүүнүн түшүндүрмөсү",
+	"miniedit-form-minor": "Майда түзөтүү",
+	"miniedit-form-saving": "Сакталууда...",
+	"miniedit-summary-edit": "Абзац түзөтүлдү",
+	"miniedit-summary-delete": "Абзац алынып салынды"
+}
