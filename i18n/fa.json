@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Darafsh"
+		]
+	},
+	"miniedit-form-publish": "انتشار",
+	"miniedit-form-cancel": "لغو",
+	"miniedit-form-summary": "خلاصهٔ ویرایش",
+	"miniedit-form-minor": "ویرایش جزئی",
+	"miniedit-form-saving": "در حال ذخیره‌سازی...",
+	"miniedit-summary-edit": "پاراگراف ویرایش شد",
+	"miniedit-summary-delete": "پاراگراف حذف شد"
+}
