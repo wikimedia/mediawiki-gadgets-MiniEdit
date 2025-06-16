@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Yuki Shiromita"
+		]
+	},
+	"miniedit-form-publish": "Đăng",
+	"miniedit-form-cancel": "Hủy bỏ",
+	"miniedit-form-summary": "Tóm lược sửa đổi",
+	"miniedit-form-minor": "Sửa đổi nhỏ",
+	"miniedit-form-saving": "Đang lưu…",
+	"miniedit-summary-edit": "Đã thêm đoạn văn",
+	"miniedit-summary-delete": "Đã xóa đoạn văn"
+}
