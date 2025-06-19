@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rang Djambak"
+		]
+	},
+	"miniedit-form-publish": "Simpan",
+	"miniedit-form-cancel": "Batal",
+	"miniedit-form-summary": "Ringkasan suntiangan",
+	"miniedit-form-minor": "Suntiangan ketek",
+	"miniedit-form-saving": "Manyimpan...",
+	"miniedit-summary-edit": "Paragraf disuntiang",
+	"miniedit-summary-delete": "Paragraf diapuih"
+}
