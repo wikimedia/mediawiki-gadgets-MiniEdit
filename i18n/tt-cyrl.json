@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ильгиз"
+		]
+	},
+	"miniedit-form-publish": "Сакла",
+	"miniedit-form-cancel": "Кире как",
+	"miniedit-form-summary": "Төзәтмә аңлатмасы",
+	"miniedit-form-minor": "Кече төзәтмә",
+	"miniedit-form-saving": "Саклау бара…",
+	"miniedit-summary-edit": "Параграф үзгәртелде",
+	"miniedit-summary-delete": "Параграф бетерелде"
+}

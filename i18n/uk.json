@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ignatgg"
+			"Ignatgg",
+			"Serhio Magpie"
 		]
 	},
-	"miniedit-form-publish": "Опублікувати",
+	"miniedit-form-publish": "Зберегти",
 	"miniedit-form-cancel": "Скасувати",
-	"miniedit-form-summary": "Опис редагування",
-	"miniedit-form-minor": "Незначне редагування",
+	"miniedit-form-summary": "Короткий опис змін",
+	"miniedit-form-minor": "Незначна зміна",
 	"miniedit-form-saving": "Збереження…",
-	"miniedit-summary-edit": "Абзац додано",
+	"miniedit-summary-edit": "Абзац відредаговано",
 	"miniedit-summary-delete": "Абзац вилучено"
 }
