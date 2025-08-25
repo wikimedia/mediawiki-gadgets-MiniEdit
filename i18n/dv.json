@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hussain Anoof"
+		]
+	},
+	"miniedit-form-publish": "ޝާއިޢުކުރޭ",
+	"miniedit-form-cancel": "އުނިއިތުރުތައް ބާޠިލުކުރޭ",
+	"miniedit-form-summary": "ޚުލާޞާ އުނިއިތުރުކުރޭ",
+	"miniedit-form-minor": "ކުޑަ އުނިއިތުރެއް",
+	"miniedit-form-saving": "އުނިއިތުރުތައް ރައްކާކުރެވެނީ...",
+	"miniedit-summary-edit": "ޕެރެގުރާފު އުނިއިތުރުކުރެވިއްޖެ",
+	"miniedit-summary-delete": "ޕެރެގުރާފު ފޮހެވިއްޖެ"
+}
