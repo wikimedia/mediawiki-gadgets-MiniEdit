@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"GilPe",
 			"Volvox"
 		]
 	},
 	"miniedit-form-publish": "Verëffentlechen",
 	"miniedit-form-cancel": "Ofbriechen",
-	"miniedit-form-summary": "Resumé vun der Ännerung",
+	"miniedit-form-summary": "Resümmee vun der Ännerung",
 	"miniedit-form-minor": "Kleng Ännerung",
 	"miniedit-form-saving": "Späicheren…",
 	"miniedit-summary-edit": "Abschnitt geännert",
