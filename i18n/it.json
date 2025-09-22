@@ -1,10 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beta16"
+			"Beta16",
+			"Giorgx12"
 		]
 	},
 	"miniedit-form-publish": "Pubblica",
+	"miniedit-form-cancel": "Cancella",
+	"miniedit-form-summary": "Sommario della modifica",
+	"miniedit-form-minor": "Modifica minore",
+	"miniedit-form-saving": "Salvataggio...",
 	"miniedit-summary-edit": "Paragrafo modificato",
 	"miniedit-summary-delete": "Paragrafo cancellato"
 }
