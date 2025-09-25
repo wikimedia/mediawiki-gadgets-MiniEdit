@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Nvdtn19",
 			"Yuki Shiromita"
 		]
 	},
@@ -9,6 +10,6 @@
 	"miniedit-form-summary": "Tóm lược sửa đổi",
 	"miniedit-form-minor": "Sửa đổi nhỏ",
 	"miniedit-form-saving": "Đang lưu…",
-	"miniedit-summary-edit": "Đã thêm đoạn văn",
-	"miniedit-summary-delete": "Đã xóa đoạn văn"
+	"miniedit-summary-edit": "Sửa đoạn văn",
+	"miniedit-summary-delete": "Xóa đoạn văn"
 }
