@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"ITZQing"
+		]
+	},
+	"miniedit-form-publish": "Objavi",
+	"miniedit-form-cancel": "Otkaži",
+	"miniedit-form-summary": "Sažetak izmjene",
+	"miniedit-form-minor": "Manja izmjena",
+	"miniedit-form-saving": "Čuvanje...",
+	"miniedit-summary-edit": "Pasus izmijenjen",
+	"miniedit-summary-delete": "Pasus obrisan"
+}
