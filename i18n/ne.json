@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"बडा काजी"
+		]
+	},
+	"miniedit-form-publish": "प्रकाशित गर्नुहोस्",
+	"miniedit-form-cancel": "रद्द गर्नुहोस्",
+	"miniedit-form-summary": "सम्पादन सारांश",
+	"miniedit-form-minor": "सानो सम्पादन",
+	"miniedit-form-saving": "सङ्ग्रह गर्दै...",
+	"miniedit-summary-edit": "अनुच्छेद सम्पादन गरियो",
+	"miniedit-summary-delete": "अनुच्छेद मेटाइयो"
+}
