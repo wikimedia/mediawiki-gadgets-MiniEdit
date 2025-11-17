@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"MeahNunh"
+		]
+	},
+	"miniedit-form-publish": "ចេញផ្សាយ",
+	"miniedit-form-cancel": "បោះបង់",
+	"miniedit-form-summary": "កែសម្រួលចំណារពន្យល់",
+	"miniedit-form-minor": "កែសម្រួលតិចតួច",
+	"miniedit-form-saving": "កំពុងរក្សាទុក...",
+	"miniedit-summary-edit": "កថាខណ្ឌត្រូវបានកែសម្រួល",
+	"miniedit-summary-delete": "កថាខណ្ឌត្រូវបានលុប"
+}
