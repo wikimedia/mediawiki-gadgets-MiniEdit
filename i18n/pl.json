@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Woytecr"
+		]
+	},
+	"miniedit-form-publish": "Opublikuj",
+	"miniedit-form-cancel": "Anuluj",
+	"miniedit-form-summary": "Opis zmian",
+	"miniedit-form-minor": "Mniej znaczna zmiana",
+	"miniedit-form-saving": "Zapisywanie…",
+	"miniedit-summary-edit": "Zmieniono akapit",
+	"miniedit-summary-delete": "Usunięto akapit"
+}
