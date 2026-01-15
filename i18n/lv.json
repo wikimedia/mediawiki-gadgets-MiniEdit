@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rusjanis"
+		]
+	},
+	"miniedit-form-publish": "Publicēt",
+	"miniedit-form-cancel": "Atcelt",
+	"miniedit-form-summary": "Izmaiņu kopsavilkums",
+	"miniedit-form-minor": "Neliels labojums",
+	"miniedit-form-saving": "Saglabā...",
+	"miniedit-summary-edit": "Rindkopa rediģēta",
+	"miniedit-summary-delete": "Rindkopa dzēsta"
+}
