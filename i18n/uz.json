@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Procedural human"
+		]
+	},
+	"miniedit-form-publish": "Chop etish",
+	"miniedit-form-cancel": "Bekor qilish",
+	"miniedit-form-summary": "Tahrir izohi",
+	"miniedit-form-minor": "Kichik tahrir",
+	"miniedit-form-saving": "Saqlanmoqda...",
+	"miniedit-summary-edit": "Paragraf tahrirlandi",
+	"miniedit-summary-delete": "Paragraf oʻchirildi"
+}
