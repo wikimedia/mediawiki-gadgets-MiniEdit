@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aindriu80"
+		]
+	},
+	"miniedit-form-publish": "Foilsigh",
+	"miniedit-form-cancel": "Cealaigh",
+	"miniedit-form-summary": "Achoimre a chur in eagar",
+	"miniedit-form-minor": "Eagarthóireacht bheag",
+	"miniedit-form-saving": "Ag sábháil...",
+	"miniedit-summary-edit": "Mír curtha in eagar",
+	"miniedit-summary-delete": "Mír scriosta"
+}
