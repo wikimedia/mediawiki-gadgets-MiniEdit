@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Pikne",
 			"Rivoz"
 		]
 	},
 	"miniedit-form-publish": "Avalda",
 	"miniedit-form-cancel": "Loobu",
-	"miniedit-form-summary": "Muuda kokkuvõtet",
+	"miniedit-form-summary": "Resümee",
 	"miniedit-form-minor": "Pisimuudatus",
 	"miniedit-form-saving": "Salvestamine...",
-	"miniedit-summary-edit": "Lõiku on muudetud",
+	"miniedit-summary-edit": "Muudetud lõiku",
 	"miniedit-summary-delete": "Lõik kustutatud"
 }
