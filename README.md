@@ -6,4 +6,4 @@ Documentation: https://www.mediawiki.org/wiki/MiniEdit
 
 Source code: https://www.mediawiki.org/wiki/MediaWiki:Gadget-Global-MiniEdit.js
 
-This repo doesn't contain the source code. It exists only to make translations via TranslateWiki.net possible.
+This repo doesn't contain the source code, it only exists to hold i18n files that can be translated via TranslateWiki.net
