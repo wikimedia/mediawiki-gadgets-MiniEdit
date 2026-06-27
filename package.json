@@ -1,8 +1,0 @@
-{
-	"scripts": {
-		"test": "eslint --cache ."
-	},
-	"devDependencies": {
-		"eslint-config-wikimedia": "^0.15.1"
-	}
-}
