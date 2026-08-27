@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"EmeseToth"
+		]
+	},
+	"miniedit-form-publish": "Közzététel",
+	"miniedit-form-cancel": "Mégse",
+	"miniedit-form-summary": "Szerkesztési összefoglaló",
+	"miniedit-form-minor": "Apró szerkesztés",
+	"miniedit-form-saving": "Mentés…",
+	"miniedit-summary-edit": "Szerkesztett bekezdés",
+	"miniedit-summary-delete": "Bekezdés törölve"
+}

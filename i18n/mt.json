@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"JiodoJ"
+		]
+	},
+	"miniedit-form-publish": "Ippubblika",
+	"miniedit-form-cancel": "Xejjen",
+	"miniedit-form-summary": "Taqsira tal-modifika",
+	"miniedit-form-minor": "Modifiki minuri",
+	"miniedit-form-saving": "Qed issalva...",
+	"miniedit-summary-edit": "Paragrafu mmodifikat",
+	"miniedit-summary-delete": "Paragrafu mħassar"
+}
