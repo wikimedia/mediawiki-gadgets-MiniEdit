@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AMAN KUMAR",
 			"Abijeet Patro"
 		]
 	},
@@ -9,5 +10,6 @@
 	"miniedit-form-summary": "संपादन सारांश",
 	"miniedit-form-minor": "छोटा संपादन",
 	"miniedit-form-saving": "सहेजा जा रहा है...",
+	"miniedit-summary-edit": "अनुच्छेद संपादित",
 	"miniedit-summary-delete": "अनुच्छेद हटा दिया गया"
 }
