@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"StanProg"
+		]
+	},
+	"miniedit-form-publish": "Публикуване",
+	"miniedit-form-cancel": "Отказ",
+	"miniedit-form-summary": "Резюме на редакцията",
+	"miniedit-form-minor": "Малка промяна",
+	"miniedit-form-saving": "Съхраняване...",
+	"miniedit-summary-edit": "Редактиран е абзац",
+	"miniedit-summary-delete": "Изтрит е абзац"
+}
