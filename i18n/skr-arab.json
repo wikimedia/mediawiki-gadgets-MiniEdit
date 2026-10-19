@@ -1,12 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
 	"miniedit-form-publish": "شائع کرو",
 	"miniedit-form-cancel": "منسوخ",
 	"miniedit-form-summary": "تبدیلی دا خلاصہ",
 	"miniedit-form-minor": "معمولی تبدیلی",
-	"miniedit-form-saving": "بچیندا پئے۔۔۔"
+	"miniedit-form-saving": "بچیندا پئے۔۔۔",
+	"miniedit-summary-edit": "پیراگراف وچ ترمیم تھئی",
+	"miniedit-summary-delete": "پیراگراف مٹا ݙتا ڳیا"
 }
