@@ -2,8 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Ignatgg",
-			"Palapa"
+			"Palapa",
+			"Panasko"
 		]
 	},
-	"miniedit-form-publish": "Objavi"
+	"miniedit-form-publish": "Objavi",
+	"miniedit-form-cancel": "Otkaži",
+	"miniedit-form-summary": "Sažetak izmjene",
+	"miniedit-form-minor": "Manja izmjena",
+	"miniedit-form-saving": "Čuvam...",
+	"miniedit-summary-edit": "Uređen paragraf",
+	"miniedit-summary-delete": "Izbrisan paragraf"
 }
