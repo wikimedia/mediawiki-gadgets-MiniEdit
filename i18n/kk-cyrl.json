@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wikuiser"
+		]
+	},
+	"miniedit-form-publish": "Жариялау",
+	"miniedit-form-cancel": "Болдырмау",
+	"miniedit-form-summary": "Өңдеме түйіні",
+	"miniedit-form-minor": "Шағын өңдеме",
+	"miniedit-form-saving": "Сақталып жатыр...",
+	"miniedit-summary-edit": "Абзац өңделді",
+	"miniedit-summary-delete": "Абзац жойылды"
+}
